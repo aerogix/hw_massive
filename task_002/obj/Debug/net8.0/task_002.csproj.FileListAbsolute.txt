@@ -1,0 +1,15 @@
+C:\Users\egoro\Desktop\дз по гб\task_002\obj\Debug\net8.0\task_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egoro\Desktop\дз по гб\task_002\obj\Debug\net8.0\task_002.AssemblyInfoInputs.cache
+C:\Users\egoro\Desktop\дз по гб\task_002\obj\Debug\net8.0\task_002.AssemblyInfo.cs
+C:\Users\egoro\Desktop\дз по гб\task_002\obj\Debug\net8.0\task_002.csproj.CoreCompileInputs.cache
+C:\Users\egoro\Desktop\дз по гб\task_002\obj\Debug\net8.0\task_002.sourcelink.json
+C:\Users\egoro\Desktop\дз по гб\task_002\bin\Debug\net8.0\task_002.exe
+C:\Users\egoro\Desktop\дз по гб\task_002\bin\Debug\net8.0\task_002.deps.json
+C:\Users\egoro\Desktop\дз по гб\task_002\bin\Debug\net8.0\task_002.runtimeconfig.json
+C:\Users\egoro\Desktop\дз по гб\task_002\bin\Debug\net8.0\task_002.dll
+C:\Users\egoro\Desktop\дз по гб\task_002\bin\Debug\net8.0\task_002.pdb
+C:\Users\egoro\Desktop\дз по гб\task_002\obj\Debug\net8.0\task_002.dll
+C:\Users\egoro\Desktop\дз по гб\task_002\obj\Debug\net8.0\refint\task_002.dll
+C:\Users\egoro\Desktop\дз по гб\task_002\obj\Debug\net8.0\task_002.pdb
+C:\Users\egoro\Desktop\дз по гб\task_002\obj\Debug\net8.0\task_002.genruntimeconfig.cache
+C:\Users\egoro\Desktop\дз по гб\task_002\obj\Debug\net8.0\ref\task_002.dll
